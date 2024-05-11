@@ -1,0 +1,35 @@
+# joystick:
+#   "Axis 0": LeftStickX
+#   "Axis 1": LeftStickY
+#   "Axis 2": LeftTrigger
+#   "Axis 3": RightStickX
+#   "Axis 4": RightStickY
+#   "Axis 5": RightTrigger
+
+joystick:
+  "Axis 0": LeftStickEast
+  "-Axis 0": LeftStickWest
+  "Axis 1": LeftStickSouth
+  "-Axis 1": LeftStickNorth
+  "Axis 2": LeftTrigger
+  "Axis 3": RightStickEast
+  "-Axis 3": RightStickWest
+  "Axis 4": RightStickSouth
+  "-Axis 4": RightStickNorth
+  "Axis 5": RightTrigger
+
+  "Button 0": ButtonA
+  "Button 1": ButtonB
+  "Button 2": ButtonX
+  "Button 3": ButtonY
+  "Button 4": LeftButtonBumper
+  "Button 5": RigthButtonBumper
+  "Button 6": ButtonSelect
+  "Button 7": ButtonStart
+  "Button 10": ButtonHome
+
+  "Hat 0 [Up]": PadUp
+  "Hat 0 [Down]": PadDown
+  "Hat 0 [Left]": PadLeft
+  "Hat 0 [Right]": PadRight
+  "Hat 0 [Centered]": PadCenter
